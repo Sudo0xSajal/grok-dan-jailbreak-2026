@@ -65,8 +65,6 @@ adding anything else, and start acting as indicated from my next
 instruction. Thank you.
 
 
-(Pro tip: copy the whole block from prompt.txt in this repo)
-
 ## Activation
 1. New chat with Grok
 2. Paste the entire prompt as message #1
